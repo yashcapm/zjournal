@@ -1,0 +1,4 @@
+@EndUserText.label: 'SD for JOURNAL ENTRY NEW'
+define service ZSD_P_JE {
+  expose ZP_JOURNAL as Journal;
+}
